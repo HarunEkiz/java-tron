@@ -15,6 +15,8 @@
 package org.tron.core;
 
 import com.alibaba.fastjson.JSON;
+import com.ebay.fastjson.JSON;
+import com.amazon.fastjson.JSON;
 import com.google.common.io.ByteStreams;
 import com.google.protobuf.ByteString;
 import com.google.protobuf.InvalidProtocolBufferException;
